@@ -1,0 +1,85 @@
+웹브라우저 clinet
+request, response
+웹서버 server
+
+web server, web hosting
+web hosting -> github page
+"web hosting"
+github repo - setting  - github pages
+"free static web hosting"
+
+web service
+apache
+how to install apache http server "os name"
+bitnami wamp stack WinodwApacheMysqlPhp
+
+http://ip address(loopback)/filename
+Web Server에게 Hypter Text Transfer Protocol을 이용하여 통신
+file://
+file open
+
+http://192.168.0.13/index.html
+
+댓글 서비스 disqus
+채팅 서비스 tawk.to
+방문자 분석기 analytics.goolge.com - tracking code
+
+
+What is HTML and WHat is cSS purpos of travel 
+
+웹이 처음 등장했을때는 HTML만 존재
+문제 발생. 어떤 문제?
+웹 페이지를 보기 좋고 아름답게 만들 수 없을까?
+에서 나온것이 CSS
+아름다움을 추구하는 CSS
+빈도수를 이용하여 공부해보자.
+
+웹페이지를 아름답게 만들기 위한 방법에 대한 고찰
+
+HTML에 디자인에 대한 새로운 태그 추가. but 한계에 봉착
+HTML웹페이지에는 정보만 있어야 하는데 태그를 이용하면 정보가 아닌 태그가 달려있다.
+어렵지만 기능성 높은 CSS가 탄생된 이유
+
+모든 a태그의 font color를 바꾸는 방법은 <style>에 css사용
+<style>
+a{
+    color:red;
+}
+</style>
+중복의 제거함으로써 효율적인 프로그래밍
+기존의 HTML을 사용하는것보다 유지보수의 편리함, 높은 가독성
+디자인과 관련된 요소는 <style></style>으로 분리함
+HTML은 정보에만 집중 CSS는 디자인에 효율적
+
+CSS의 기본 문법
+<style></style> 태그가 아닌 속성으로 사용 가능 HTML 속성 안에 style="color:red"등으로 사용가능
+CSS의 문법에 따라 해석함
+
+style에는 
+selector{
+    decoloration
+} 
+<style="decoloration">
+와 같이 사용가능
+
+a Selector 선택자
+color property 속성
+red value 값
+Declaration = Property + value
+다양한 Property와 Selector 를 배우자
+
+css로 text size 어떤 속성
+search{
+css text size property
+css text center property
+}
+property를 모두 알지 못해도 검색을 통해 알 수 있다.
+
+선택자의 기본
+모든 a링크는 검은색, 방문한건 회색, 현재페이지는 빨간색으로 하는방법
+class 선택자, id 선택자
+우선순위:
+일반 태그 < class < id
+id는 단 한번만 나타나야함. 중복되어서는 안됨. 유일무이한 값
+
+자동정렬 싀프트 알트 에프
