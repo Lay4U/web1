@@ -88,3 +88,22 @@ OS(PC, Mobile, VR 등) 모든 화면에 출력해야함.
 다양한 환경에서 표현하기위해 -> 반응형 웹
 화면의 크기에따라 웹페이지를 표현
 
+JavaScript
+사용자와 상호작용
+
+javascript datadtype
+Boolean, Null, Undefined, Number, String, Symbol and Object
+javascript string
+string method 
+
+변수와 대입연산자
+
+"javascript select tag by css selector"
+documnet.querySelector('선택자')
+javascript element style
+document.querySelector('body').style
+javascript style background color
+doucument.body.style.backgroundColor='black';
+
+"javascript get value"
+document.querySelectort('#night_day').value
